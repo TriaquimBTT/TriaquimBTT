@@ -1,16 +1,14 @@
-### Hi there 👋
+# Ola, me chamo Gustavo (Sabrina) Triaquim!
+## Bem vindo(a) ao meu perfil do Github :D
+#
+#
+### Tenho 17 anos, meus pronomes sao ele/dele
+### Estudo no SESI SENAI Boqueirao, em Curitiba, curso o ensino medio tecnico integrado com enfase em ADS;
+### Estou cursando a plataforma Alura para me aprimorar em desenvolvimento web
+##### (Ja completei os cursos de HTML e CSS);
+#
+## Contatos:
+### triaquimsabrina@gmail.com;
+### https://www.linkedin.com/in/sabrina-triaquim-419a582aa/;
 
-<!--
-**TriaquimBTT/TriaquimBTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
