@@ -1,4 +1,4 @@
-# Ola, me chamo Sabrina (Gustavo) Triaquim!
+# Ola, me chamo Gustavo Triaquim!
 ## Bem vindo(a) ao meu perfil do Github :D
 #
 #
